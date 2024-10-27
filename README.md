@@ -10,7 +10,7 @@
 ---
 
 ## 功能演示
-![功能演示](show.gif)
+![功能演示](https://github.com/Yakraii/SCNU_LiruyunTool/blob/main/show.gif)
 
 ---
 
