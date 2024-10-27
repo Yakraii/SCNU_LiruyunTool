@@ -55,7 +55,7 @@
 
 ---
 
-## Greasy Fork 链接
+## ***GreasyFork*** 链接
 
-[**点击这里下载** ***Greasy Fork*** **脚本**](https://greasyfork.org/zh-CN/scripts/492821)
+**点击这里下载** [**Greasy Fork**](https://greasyfork.org/zh-CN/scripts/492821) **脚本**
 
