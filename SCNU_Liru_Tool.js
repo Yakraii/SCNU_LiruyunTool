@@ -21,7 +21,7 @@
 
     //填入账密：
     var accountInput = "20222005231";
-    var passwordInput = "Huashi17724@";
+    var passwordInput = "88888888";
 
     //样式设置：
     const css = GM_getResourceText("css");
